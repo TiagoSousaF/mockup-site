@@ -1,0 +1,20 @@
+:root {
+    --Preto: #000000;
+    --Azul-Escuro: #0c264b;
+    --Azul: #3558a1;
+    --Azul-Claro:#6c90ff;
+    --Branco: #ffffff;
+}
+
+.qdr-azul {
+    background-color: var(--Azul-Claro);
+    opacity: 0.7;
+    height: 660px;
+    width: 530px;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    justify-content:first baseline;
+    flex-direction: column;
+    margin: auto 0;
+}
