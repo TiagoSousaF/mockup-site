@@ -2,19 +2,20 @@
     --Preto: #000000;
     --Azul-Escuro: #0c264b;
     --Azul: #3558a1;
-    --Azul-Claro:#6c90ff;
+    --Azul-Claro:#98B1FF;
     --Branco: #ffffff;
 }
 
-.qdr-azul {
+.qdr-sobreNos {
     background-color: var(--Azul-Claro);
-    opacity: 0.7;
-    height: 660px;
-    width: 530px;
+    opacity: 0,7;
+    height: 500px;
+    width: 1200px;
     display: flex;
     border-radius: 10px;
     align-items: center;
     justify-content:first baseline;
     flex-direction: column;
     margin: auto 0;
+    color: var(--Branco);
 }
